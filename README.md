@@ -53,10 +53,12 @@
 
 
 ## Output:
+![image](https://github.com/Sheetalshee/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979107/5621c1eb-3d65-4f4f-bd03-8ba49e43c7df)
+![image](https://github.com/Sheetalshee/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979107/eb1258ea-b6d5-43d8-9c2f-e998b454e860)
 
 
-### Name:
-### Register Number: 
+### Name: SHEETAL R
+### Register Number: 212223230206
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
